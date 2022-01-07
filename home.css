@@ -1,0 +1,24 @@
+#nav
+{
+    background-color: black;
+    border: 0px solid black;
+    width: 150px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+}
+#logo
+{
+    padding: 30px;
+}
+.click
+{
+    color: rgb(204, 200, 192);
+    border: 0.1px solid gray;
+    padding: 30px;
+    font-family: 'Spline Sans', sans-serif;
+}
+.click:hover
+{
+    border-left: 10px solid greenyellow;
+}
